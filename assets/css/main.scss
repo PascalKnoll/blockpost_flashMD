@@ -23,3 +23,17 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+
+/* --- DARK MODE CAPTION FIX --- */
+@media (prefers-color-scheme: dark) {
+  figcaption, figure caption, .caption, .figure-caption {
+    color: #c4c4c4 !important; 
+  }
+}
+
+body.dark, body.night-mode, [data-theme="dark"] {
+  figcaption, figure caption, .caption, .figure-caption {
+    color: #c4c4c4 !important;
+  }
+}
