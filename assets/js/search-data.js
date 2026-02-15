@@ -7,35 +7,35 @@ ninja.data = [{
     title: "home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/blockpost_flashMD/";
+      window.location.href = "/2026/";
     },
   },{id: "nav-about",
           title: "about",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blockpost_flashMD/about/";
+            window.location.href = "/2026/about/";
           },
         },{id: "nav-call-for-blogposts",
           title: "call for blogposts",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blockpost_flashMD/call/";
+            window.location.href = "/2026/call/";
           },
         },{id: "nav-submitting",
           title: "submitting",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blockpost_flashMD/submitting/";
+            window.location.href = "/2026/submitting/";
           },
         },{id: "nav-reviewing",
           title: "reviewing",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blockpost_flashMD/reviewing/";
+            window.location.href = "/2026/reviewing/";
           },
         },{id: "dropdown-lt-strong-gt-2026-lt-strong-gt",
               title: "&lt;strong&gt;2026&lt;/strong&gt;",
@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/ppo-batch-size/";
+            window.location.href = "/2026/blog/2026/ppo-batch-size/";
           
         },
       },{id: "post-beyond-attention-as-a-graph",
@@ -91,7 +91,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/beyond-attention-as-graph/";
+            window.location.href = "/2026/blog/2026/beyond-attention-as-graph/";
           
         },
       },{id: "post-attention-sinks-from-the-graph-perspective",
@@ -102,7 +102,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/attention-sinks-graph-perspective/";
+            window.location.href = "/2026/blog/2026/attention-sinks-graph-perspective/";
           
         },
       },{id: "post-a-hitchhiker-39-s-guide-to-agent-evaluation",
@@ -113,7 +113,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/agent-evaluation/";
+            window.location.href = "/2026/blog/2026/agent-evaluation/";
           
         },
       },{id: "post-what-can-you-do-when-you-have-zero-rewards-during-rl",
@@ -124,7 +124,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/zero-rewards/";
+            window.location.href = "/2026/blog/2026/zero-rewards/";
           
         },
       },{id: "post-the-witness-problem-in-multi-agent-cooperation",
@@ -135,7 +135,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/witness-problem/";
+            window.location.href = "/2026/blog/2026/witness-problem/";
           
         },
       },{id: "post-why-did-the-ai-model-say-that-a-methodological-practical-guide-for-explaining-multimodal-medical-decisions",
@@ -146,7 +146,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/why-did-the-model-say-that/";
+            window.location.href = "/2026/blog/2026/why-did-the-model-say-that/";
           
         },
       },{id: "post-why-ai-evaluations-need-error-bars",
@@ -157,7 +157,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/why-ai-evaluations-need-error-bars/";
+            window.location.href = "/2026/blog/2026/why-ai-evaluations-need-error-bars/";
           
         },
       },{id: "post-when-we-are-nosy",
@@ -168,7 +168,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/when-we-are-nosy/";
+            window.location.href = "/2026/blog/2026/when-we-are-nosy/";
           
         },
       },{id: "post-uncertainty-lifecycle-in-deep-learning",
@@ -179,7 +179,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/uncertainty-lifecycle-in-deep-learning/";
+            window.location.href = "/2026/blog/2026/uncertainty-lifecycle-in-deep-learning/";
           
         },
       },{id: "post-trade-offs-in-llm-compute-for-reasoning-intensive-information-retrieval",
@@ -190,7 +190,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/trade-offs-in-llm-compute-for-reasoning-intensive-information-retrieval/";
+            window.location.href = "/2026/blog/2026/trade-offs-in-llm-compute-for-reasoning-intensive-information-retrieval/";
           
         },
       },{id: "post-task-complexity-analysis",
@@ -201,7 +201,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/task-complexity-analysis/";
+            window.location.href = "/2026/blog/2026/task-complexity-analysis/";
           
         },
       },{id: "post-don-39-t-look-up-every-token-escaping-quadratic-complexity-via-geometric-patterns-and-algorithms",
@@ -212,7 +212,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/sparsity/";
+            window.location.href = "/2026/blog/2026/sparsity/";
           
         },
       },{id: "post-an-impossibility-trilemma-for-data-free-sampler-evaluation",
@@ -223,7 +223,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/sampler-eval-trilemma/";
+            window.location.href = "/2026/blog/2026/sampler-eval-trilemma/";
           
         },
       },{id: "post-revisiting-the-nethack-learning-environment",
@@ -234,7 +234,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/revisiting-the-nle/";
+            window.location.href = "/2026/blog/2026/revisiting-the-nle/";
           
         },
       },{id: "post-mimicking-or-reasoning-rethinking-multi-modal-in-context-learning-in-vision-language-models",
@@ -245,7 +245,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/rethinking-mmicl/";
+            window.location.href = "/2026/blog/2026/rethinking-mmicl/";
           
         },
       },{id: "post-looking-for-tractable-definitions-to-satisfy-on-the-path-to-open-endedness",
@@ -256,7 +256,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/qoe/";
+            window.location.href = "/2026/blog/2026/qoe/";
           
         },
       },{id: "post-extracting-model-precision-from-20-logprobs",
@@ -267,7 +267,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/precision-extraction/";
+            window.location.href = "/2026/blog/2026/precision-extraction/";
           
         },
       },{id: "post-beyond-black-box-predictions-neural-operators-as-a-bridge-to-interpretable-governing-equations-in-biology",
@@ -278,7 +278,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/neural-ops-in-biology/";
+            window.location.href = "/2026/blog/2026/neural-ops-in-biology/";
           
         },
       },{id: "post-loneliness-as-a-case-study-for-social-reward-misalignment",
@@ -289,7 +289,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/loneliness-social-misalignment/";
+            window.location.href = "/2026/blog/2026/loneliness-social-misalignment/";
           
         },
       },{id: "post-the-human-knowledge-loophole-in-the-39-bitter-lesson-39-for-llms",
@@ -300,7 +300,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/llm-bitter-lesson/";
+            window.location.href = "/2026/blog/2026/llm-bitter-lesson/";
           
         },
       },{id: "post-charting-the-depths-interpretability-tools-to-enhance-llm-safety",
@@ -311,7 +311,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/interp-safety/";
+            window.location.href = "/2026/blog/2026/interp-safety/";
           
         },
       },{id: "post-diffusion-as-infinite-hierarchical-vaes-do-diffusion-models-generalize-better-than-deep-vaes",
@@ -322,7 +322,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/generalization-in-diffusion-as-infinite-hvae/";
+            window.location.href = "/2026/blog/2026/generalization-in-diffusion-as-infinite-hvae/";
           
         },
       },{id: "post-ready-for-general-agents-let-39-s-test-it",
@@ -333,7 +333,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/general-agent-evaluation/";
+            window.location.href = "/2026/blog/2026/general-agent-evaluation/";
           
         },
       },{id: "post-divide-conquer-and-standardize-a-recursive-architecture-for-multi-agent-systems-mas",
@@ -344,7 +344,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/fractal-mas/";
+            window.location.href = "/2026/blog/2026/fractal-mas/";
           
         },
       },{id: "post-old-flashmd-bypassing-the-integrator-for-long-timescale-dynamics",
@@ -355,7 +355,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/flashmd_old/";
+            window.location.href = "/2026/blog/2026/flashmd_old/";
           
         },
       },{id: "post-dynamics-of-forgetting",
@@ -366,7 +366,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/dynamics-of-forgetting/";
+            window.location.href = "/2026/blog/2026/dynamics-of-forgetting/";
           
         },
       },{id: "post-dllm-rethinking-generation-beyond-autoregressive-models",
@@ -377,7 +377,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/dllm/";
+            window.location.href = "/2026/blog/2026/dllm/";
           
         },
       },{id: "post-sample-blog-post",
@@ -388,7 +388,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/distill-example/";
+            window.location.href = "/2026/blog/2026/distill-example/";
           
         },
       },{id: "post-hypes-and-hopes-for-causal-inference-for-brain-dynamics",
@@ -399,18 +399,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/causal-ts/";
-          
-        },
-      },{id: "post-breaking-the-femtosecond-prison-promise-and-limits-of-flashmd",
-        
-          title: "Breaking the Femtosecond Prison: Promise and Limits of FlashMD",
-        
-        description: "Can a neural network learn to respect the laws of physics without being explicitly taught? We explore this question through FlashMD, a new framework that bypasses the timestep stability limit (XX femtosecond prison) of classical integrators to predict molecular evolution directly. This post guides you from the basics of MD bottlenecks to the cutting edge of learned dynamics. We conclude with an exclusive exploratory study revealing a hidden cost to this speed: when safety nets are removed, FlashMD struggles to conserve energy, highlighting the gap between statistical accuracy and physical validity.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blockpost_flashMD/blog/2026/breaking-the-femtosecond-prison-promise-and-limits-of-flashmd/";
+            window.location.href = "/2026/blog/2026/causal-ts/";
           
         },
       },{id: "post-square-peg-round-hole-plugging-non-sequential-data-into-sequential-language-models",
@@ -421,14 +410,25 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blockpost_flashMD/blog/2026/autoregressive-tokenization/";
+            window.location.href = "/2026/blog/2026/autoregressive-tokenization/";
+          
+        },
+      },{id: "post-breaking-the-femtosecond-prison-promise-and-limits-of-flashmd",
+        
+          title: "Breaking the Femtosecond Prison: Promise and Limits of FlashMD",
+        
+        description: "Can a neural network learn to respect the laws of physics without being explicitly taught? We explore this question through FlashMD, a new framework that bypasses the timestep stability limit (XX femtosecond prison) of classical integrators to predict molecular evolution directly. This post guides you from the basics of MD bottlenecks to the cutting edge of learned dynamics. We conclude with an exclusive exploratory study revealing a hidden cost to this speed: when safety nets are removed, FlashMD struggles to conserve energy, highlighting the gap between statistical accuracy and physical validity.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/breaking-the-femtosecond-prison-promise-and-limits-of-flashmd/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/blockpost_flashMD/books/the_godfather/";
+              window.location.href = "/2026/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -436,7 +436,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/blockpost_flashMD/news/announcement_2/";
+              window.location.href = "/2026/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -444,47 +444,47 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/1_project/";
+              window.location.href = "/2026/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/2_project/";
+              window.location.href = "/2026/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/3_project/";
+              window.location.href = "/2026/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/4_project/";
+              window.location.href = "/2026/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/5_project/";
+              window.location.href = "/2026/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/6_project/";
+              window.location.href = "/2026/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/7_project/";
+              window.location.href = "/2026/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/8_project/";
+              window.location.href = "/2026/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/blockpost_flashMD/projects/9_project/";
+              window.location.href = "/2026/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -504,7 +504,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/blockpost_flashMD//feed.xml", "_blank");
+          window.open("/2026/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

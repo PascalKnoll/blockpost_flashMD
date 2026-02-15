@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://PascalKnoll.github.io/blockpost_flashMD//sitemap.xml
+Sitemap: https://iclr-blogposts.github.io/2026/sitemap.xml
