@@ -7,35 +7,35 @@ ninja.data = [{
     title: "home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/2026/";
+      window.location.href = "/blockpost_flashMD/";
     },
   },{id: "nav-about",
           title: "about",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/2026/about/";
+            window.location.href = "/blockpost_flashMD/about/";
           },
         },{id: "nav-call-for-blogposts",
           title: "call for blogposts",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/2026/call/";
+            window.location.href = "/blockpost_flashMD/call/";
           },
         },{id: "nav-submitting",
           title: "submitting",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/2026/submitting/";
+            window.location.href = "/blockpost_flashMD/submitting/";
           },
         },{id: "nav-reviewing",
           title: "reviewing",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/2026/reviewing/";
+            window.location.href = "/blockpost_flashMD/reviewing/";
           },
         },{id: "dropdown-lt-strong-gt-2026-lt-strong-gt",
               title: "&lt;strong&gt;2026&lt;/strong&gt;",
@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/2026/blog/2026/flashmd_old/";
+            window.location.href = "/blockpost_flashMD/blog/2026/flashmd_old/";
           
         },
       },{id: "post-what-can-we-learn-from-flashmd-the-promise-and-limits-of-learning-molecular-dynamics",
@@ -91,7 +91,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/2026/blog/2026/flashmd/";
+            window.location.href = "/blockpost_flashMD/blog/2026/flashmd/";
           
         },
       },{id: "post-sample-blog-post",
@@ -102,14 +102,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/2026/blog/2026/distill-example/";
+            window.location.href = "/blockpost_flashMD/blog/2026/distill-example/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/2026/books/the_godfather/";
+              window.location.href = "/blockpost_flashMD/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -117,7 +117,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/2026/news/announcement_2/";
+              window.location.href = "/blockpost_flashMD/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -125,47 +125,47 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/1_project/";
+              window.location.href = "/blockpost_flashMD/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/2_project/";
+              window.location.href = "/blockpost_flashMD/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/3_project/";
+              window.location.href = "/blockpost_flashMD/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/4_project/";
+              window.location.href = "/blockpost_flashMD/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/5_project/";
+              window.location.href = "/blockpost_flashMD/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/6_project/";
+              window.location.href = "/blockpost_flashMD/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/7_project/";
+              window.location.href = "/blockpost_flashMD/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/8_project/";
+              window.location.href = "/blockpost_flashMD/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/2026/projects/9_project/";
+              window.location.href = "/blockpost_flashMD/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -185,7 +185,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/2026/feed.xml", "_blank");
+          window.open("/blockpost_flashMD//feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

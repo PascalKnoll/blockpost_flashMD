@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://0.0.0.0:8080/2026/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8080/2026/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-15T21:55:32+00:00</updated><id>http://0.0.0.0:8080/2026/feed.xml</id><title type="html">ICLR Blogposts 2026</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">Sample Blog Post</title><link href="http://0.0.0.0:8080/2026/blog/2026/distill-example/" rel="alternate" type="text/html" title="Sample Blog Post" /><published>2026-04-27T00:00:00+00:00</published><updated>2026-04-27T00:00:00+00:00</updated><id>http://0.0.0.0:8080/2026/blog/2026/distill-example</id><content type="html" xml:base="http://0.0.0.0:8080/2026/blog/2026/distill-example/"><![CDATA[<p>Note: please use the table of contents as defined in the front matter rather than the traditional markdown styling.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://0.0.0.0:8080/blockpost_flashMD/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:8080/blockpost_flashMD/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-02-15T22:09:37+00:00</updated><id>http://0.0.0.0:8080/blockpost_flashMD/feed.xml</id><title type="html">ICLR Blogposts 2026</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Sample Blog Post</title><link href="http://0.0.0.0:8080/blockpost_flashMD/blog/2026/distill-example/" rel="alternate" type="text/html" title="Sample Blog Post" /><published>2026-04-27T00:00:00+00:00</published><updated>2026-04-27T00:00:00+00:00</updated><id>http://0.0.0.0:8080/blockpost_flashMD/blog/2026/distill-example</id><content type="html" xml:base="http://0.0.0.0:8080/blockpost_flashMD/blog/2026/distill-example/"><![CDATA[<p>Note: please use the table of contents as defined in the front matter rather than the traditional markdown styling.</p>
 
 <h2 id="equations">Equations</h2>
 
@@ -36,10 +36,10 @@ To include images in your submission in this way, you must do something like the
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-distill-example/iclr-480.webp 480w,/2026/assets/img/2026-04-27-distill-example/iclr-800.webp 800w,/2026/assets/img/2026-04-27-distill-example/iclr-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-distill-example/iclr-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/iclr-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/iclr-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-distill-example/iclr.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-distill-example/iclr.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -66,10 +66,10 @@ Some more complex ways to load images (note the different styles of the shapes/s
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-distill-example/9-480.webp 480w,/2026/assets/img/2026-04-27-distill-example/9-800.webp 800w,/2026/assets/img/2026-04-27-distill-example/9-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-distill-example/9-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/9-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/9-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-distill-example/9.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-distill-example/9.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -90,10 +90,10 @@ Some more complex ways to load images (note the different styles of the shapes/s
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-distill-example/7-480.webp 480w,/2026/assets/img/2026-04-27-distill-example/7-800.webp 800w,/2026/assets/img/2026-04-27-distill-example/7-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-distill-example/7-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/7-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/7-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-distill-example/7.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-distill-example/7.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -120,10 +120,10 @@ Some more complex ways to load images (note the different styles of the shapes/s
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-distill-example/8-480.webp 480w,/2026/assets/img/2026-04-27-distill-example/8-800.webp 800w,/2026/assets/img/2026-04-27-distill-example/8-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-distill-example/8-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/8-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/8-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-distill-example/8.jpg" class="img-fluid z-depth-2" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-distill-example/8.jpg" class="img-fluid z-depth-2" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -144,10 +144,10 @@ Some more complex ways to load images (note the different styles of the shapes/s
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-distill-example/10-480.webp 480w,/2026/assets/img/2026-04-27-distill-example/10-800.webp 800w,/2026/assets/img/2026-04-27-distill-example/10-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-distill-example/10-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/10-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/10-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-distill-example/10.jpg" class="img-fluid z-depth-2" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-distill-example/10.jpg" class="img-fluid z-depth-2" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -171,10 +171,10 @@ Some more complex ways to load images (note the different styles of the shapes/s
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-distill-example/11-480.webp 480w,/2026/assets/img/2026-04-27-distill-example/11-800.webp 800w,/2026/assets/img/2026-04-27-distill-example/11-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-distill-example/11-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/11-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/11-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-distill-example/11.jpg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-distill-example/11.jpg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -195,10 +195,10 @@ Some more complex ways to load images (note the different styles of the shapes/s
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-distill-example/12-480.webp 480w,/2026/assets/img/2026-04-27-distill-example/12-800.webp 800w,/2026/assets/img/2026-04-27-distill-example/12-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-distill-example/12-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/12-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/12-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-distill-example/12.jpg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-distill-example/12.jpg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -219,10 +219,10 @@ Some more complex ways to load images (note the different styles of the shapes/s
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-distill-example/7-480.webp 480w,/2026/assets/img/2026-04-27-distill-example/7-800.webp 800w,/2026/assets/img/2026-04-27-distill-example/7-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-distill-example/7-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/7-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-distill-example/7-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-distill-example/7.jpg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-distill-example/7.jpg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -276,7 +276,7 @@ To embed it into any page, simply insert the following code anywhere into your p
 <p>Voila!</p>
 
 <div class="l-page">
-  <iframe src="/2026/assets/html/2026-04-27-distill-example/plotly_demo_1.html" frameborder="0" scrolling="no" height="600px" width="100%"></iframe>
+  <iframe src="/blockpost_flashMD/assets/html/2026-04-27-distill-example/plotly_demo_1.html" frameborder="0" scrolling="no" height="600px" width="100%"></iframe>
 </div>
 
 <h2 id="citations">Citations</h2>
@@ -595,7 +595,7 @@ This line is part of the same quote.</p>
 <p>This line is separated from the one above by two newlines, so it will be a <em>separate paragraph</em>.</p>
 
 <p>This line is also a separate paragraph, but…
-This line is only separated by a single newline, so it’s a separate line in the <em>same paragraph</em>.</p>]]></content><author><name>Albert Einstein</name></author><summary type="html"><![CDATA[Your blog post's abstract. Please add your abstract or summary here and not in the main body of your text. Do not include math/latex or hyperlinks.]]></summary></entry><entry><title type="html">What Can We Learn from FlashMD? The Promise and Limits of Learning Molecular Dynamics</title><link href="http://0.0.0.0:8080/2026/blog/2026/flashmd/" rel="alternate" type="text/html" title="What Can We Learn from FlashMD? The Promise and Limits of Learning Molecular Dynamics" /><published>2026-04-27T00:00:00+00:00</published><updated>2026-04-27T00:00:00+00:00</updated><id>http://0.0.0.0:8080/2026/blog/2026/flashmd</id><content type="html" xml:base="http://0.0.0.0:8080/2026/blog/2026/flashmd/"><![CDATA[<h1 id="introduction">Introduction</h1>
+This line is only separated by a single newline, so it’s a separate line in the <em>same paragraph</em>.</p>]]></content><author><name>Albert Einstein</name></author><summary type="html"><![CDATA[Your blog post's abstract. Please add your abstract or summary here and not in the main body of your text. Do not include math/latex or hyperlinks.]]></summary></entry><entry><title type="html">What Can We Learn from FlashMD? The Promise and Limits of Learning Molecular Dynamics</title><link href="http://0.0.0.0:8080/blockpost_flashMD/blog/2026/flashmd/" rel="alternate" type="text/html" title="What Can We Learn from FlashMD? The Promise and Limits of Learning Molecular Dynamics" /><published>2026-04-27T00:00:00+00:00</published><updated>2026-04-27T00:00:00+00:00</updated><id>http://0.0.0.0:8080/blockpost_flashMD/blog/2026/flashmd</id><content type="html" xml:base="http://0.0.0.0:8080/blockpost_flashMD/blog/2026/flashmd/"><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>As Richard Feynman once said, everything that living things do can be understood in terms of the jigglings and wigglings of atoms<d-cite key="feynman1964relation"></d-cite> . The computational microscope used to examine this behavior is called Molecular Dynamics (MD). MD enables us to simulate atoms according to Newton’s laws and observe processes such as protein folding, battery charging, and material fracture—all at the atomic scale.</p>
 
 <p>However, the MD workflow has long suffered from two significant bottlenecks:</p>
@@ -639,10 +639,10 @@ This line is only separated by a single newline, so it’s a separate line in th
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/MD_simulation_workflow-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/MD_simulation_workflow-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/MD_simulation_workflow-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/MD_simulation_workflow-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/MD_simulation_workflow-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/MD_simulation_workflow-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/MD_simulation_workflow.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/MD_simulation_workflow.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -793,10 +793,10 @@ This line is only separated by a single newline, so it’s a separate line in th
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/flashmd_architecture-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/flashmd_architecture-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/flashmd_architecture-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/flashmd_architecture-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/flashmd_architecture-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/flashmd_architecture-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/flashmd_architecture.jpeg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/flashmd_architecture.jpeg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -875,10 +875,10 @@ Two separate MLP heads decode the final node representations into predictions:</
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/pet_illustration-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/pet_illustration-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/pet_illustration-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/pet_illustration-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/pet_illustration-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/pet_illustration-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/pet_illustration.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/pet_illustration.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -939,10 +939,10 @@ Despite its apparent simplicity, water is notoriously difficult to simulate due 
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/water_experiment_flashmd-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/water_experiment_flashmd-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/water_experiment_flashmd-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/water_experiment_flashmd-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/water_experiment_flashmd-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/water_experiment_flashmd-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/water_experiment_flashmd.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/water_experiment_flashmd.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -968,10 +968,10 @@ Perhaps the most striking result involves a solid-state battery electrolyte. At 
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/universal_experiments_flashmd-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/universal_experiments_flashmd-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/universal_experiments_flashmd-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/universal_experiments_flashmd-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/universal_experiments_flashmd-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/universal_experiments_flashmd-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/universal_experiments_flashmd.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/universal_experiments_flashmd.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1012,10 +1012,10 @@ Perhaps the most striking result involves a solid-state battery electrolyte. At 
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/comparison_detailed_analysis-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/comparison_detailed_analysis-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/comparison_detailed_analysis-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/comparison_detailed_analysis-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/comparison_detailed_analysis-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/comparison_detailed_analysis-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/comparison_detailed_analysis.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/comparison_detailed_analysis.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1038,10 +1038,10 @@ Perhaps the most striking result involves a solid-state battery electrolyte. At 
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/velocity_momentum_species_grid-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/velocity_momentum_species_grid-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/velocity_momentum_species_grid-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/velocity_momentum_species_grid-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/velocity_momentum_species_grid-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/velocity_momentum_species_grid-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/velocity_momentum_species_grid.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/velocity_momentum_species_grid.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1073,10 +1073,10 @@ Perhaps the most striking result involves a solid-state battery electrolyte. At 
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1102,10 +1102,10 @@ Perhaps the most striking result involves a solid-state battery electrolyte. At 
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/mom_10_velocity_momentum_species_grid-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/mom_10_velocity_momentum_species_grid-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/mom_10_velocity_momentum_species_grid-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/mom_10_velocity_momentum_species_grid-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/mom_10_velocity_momentum_species_grid-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/mom_10_velocity_momentum_species_grid-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/mom_10_velocity_momentum_species_grid.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/mom_10_velocity_momentum_species_grid.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1135,10 +1135,10 @@ Perhaps the most striking result involves a solid-state battery electrolyte. At 
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1162,7 +1162,7 @@ Perhaps the most striking result involves a solid-state battery electrolyte. At 
 
 <p>None of this undermines the importance of the work. FlashMD is an impressive step toward longer-stride learned dynamics. But it does make one thing clear: what is still missing are the mathematical guarantees that classical integrators provide by construction.</p>
 
-<p>The question we posed in the introduction—Can a model learn to respect the laws of physics without being explicitly taught to do so?—now has a nuanced answer. For statistical properties sampled under external control, yes. For the strict, unassisted conservation of energy that defines Hamiltonian dynamics, not yet.</p>]]></content><author><name>Anonymous</name></author><summary type="html"><![CDATA[Can a neural network learn to respect the laws of physics without being explicitly taught? We explore this question through FlashMD, a new framework that bypasses the timestep stability limit (XX femtosecond prison) of classical integrators to predict molecular evolution directly. This post guides you from the basics of MD bottlenecks to the cutting edge of learned dynamics. We conclude with an exclusive exploratory study revealing a hidden cost to this speed: when safety nets are removed, FlashMD struggles to conserve energy, highlighting the gap between statistical accuracy and physical validity.]]></summary></entry><entry><title type="html">OLD: FlashMD - Bypassing the Integrator for Long-Timescale Dynamics</title><link href="http://0.0.0.0:8080/2026/blog/2026/flashmd_old/" rel="alternate" type="text/html" title="OLD: FlashMD - Bypassing the Integrator for Long-Timescale Dynamics" /><published>2026-04-27T00:00:00+00:00</published><updated>2026-04-27T00:00:00+00:00</updated><id>http://0.0.0.0:8080/2026/blog/2026/flashmd_old</id><content type="html" xml:base="http://0.0.0.0:8080/2026/blog/2026/flashmd_old/"><![CDATA[<h1 id="introduction">Introduction</h1>
+<p>The question we posed in the introduction—Can a model learn to respect the laws of physics without being explicitly taught to do so?—now has a nuanced answer. For statistical properties sampled under external control, yes. For the strict, unassisted conservation of energy that defines Hamiltonian dynamics, not yet.</p>]]></content><author><name>Anonymous</name></author><summary type="html"><![CDATA[Can a neural network learn to respect the laws of physics without being explicitly taught? We explore this question through FlashMD, a new framework that bypasses the timestep stability limit (XX femtosecond prison) of classical integrators to predict molecular evolution directly. This post guides you from the basics of MD bottlenecks to the cutting edge of learned dynamics. We conclude with an exclusive exploratory study revealing a hidden cost to this speed: when safety nets are removed, FlashMD struggles to conserve energy, highlighting the gap between statistical accuracy and physical validity.]]></summary></entry><entry><title type="html">OLD: FlashMD - Bypassing the Integrator for Long-Timescale Dynamics</title><link href="http://0.0.0.0:8080/blockpost_flashMD/blog/2026/flashmd_old/" rel="alternate" type="text/html" title="OLD: FlashMD - Bypassing the Integrator for Long-Timescale Dynamics" /><published>2026-04-27T00:00:00+00:00</published><updated>2026-04-27T00:00:00+00:00</updated><id>http://0.0.0.0:8080/blockpost_flashMD/blog/2026/flashmd_old</id><content type="html" xml:base="http://0.0.0.0:8080/blockpost_flashMD/blog/2026/flashmd_old/"><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>Molecular Dynamics (MD) is often called the “computational microscope” of modern science. By simulating atoms obeying Newton’s laws, we can watch proteins fold, batteries charge, and materials fracture—all at the atomic scale. If we can simulate the atoms, we can predict the material.</p>
 
 <p>But there’s a brutal trade-off: <strong>accuracy versus time</strong>.</p>
@@ -1433,10 +1433,10 @@ We have established that we need billions of time steps to simulate meaningful b
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/flashmd_architecture-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/flashmd_architecture-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/flashmd_architecture-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/flashmd_architecture-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/flashmd_architecture-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/flashmd_architecture-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/flashmd_architecture.jpeg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/flashmd_architecture.jpeg" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1677,10 +1677,10 @@ Perhaps the most impressive demonstration involved a solid-state battery electro
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/tip3p_maxwell_boltzmann_comparison-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/tip3p_maxwell_boltzmann_comparison-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/tip3p_maxwell_boltzmann_comparison-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/tip3p_maxwell_boltzmann_comparison-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/tip3p_maxwell_boltzmann_comparison-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/tip3p_maxwell_boltzmann_comparison-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/tip3p_maxwell_boltzmann_comparison.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/tip3p_maxwell_boltzmann_comparison.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1786,10 +1786,10 @@ Perhaps the most impressive demonstration involved a solid-state battery electro
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/nve_comparison_4models_10ps_temp_energy.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
@@ -1831,10 +1831,10 @@ Perhaps the most impressive demonstration involved a solid-state battery electro
     -->
     
       
-        <source class="responsive-img-srcset" srcset="/2026/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-480.webp 480w,/2026/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-800.webp 800w,/2026/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-1400.webp 1400w," type="image/webp" sizes="95vw" />
+        <source class="responsive-img-srcset" srcset="/blockpost_flashMD/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-480.webp 480w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-800.webp 800w,/blockpost_flashMD/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison-1400.webp 1400w," type="image/webp" sizes="95vw" />
       
     
-    <img src="/2026/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/blockpost_flashMD/assets/img/2026-04-27-flashmd/mass_scaling_nve_comparison.png" class="img-fluid" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
   </picture>
 
   
