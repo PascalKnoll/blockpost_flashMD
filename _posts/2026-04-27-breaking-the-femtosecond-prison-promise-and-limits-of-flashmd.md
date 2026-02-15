@@ -2,7 +2,7 @@
 layout: distill
 title: "Breaking the Femtosecond Prison: Promise and Limits of FlashMD"
 description: "Can a neural network learn to respect the laws of physics without being explicitly taught? We explore this question through FlashMD, a new framework that bypasses the timestep stability limit (XX femtosecond prison) of classical integrators to predict molecular evolution directly. This post guides you from the basics of MD bottlenecks to the cutting edge of learned dynamics. We conclude with an exclusive exploratory study revealing a hidden cost to this speed: when safety nets are removed, FlashMD struggles to conserve energy, highlighting the gap between statistical accuracy and physical validity."
-date: 2026-04-27
+date: 2026-02-15
 future: true
 htmlwidgets: true
 
