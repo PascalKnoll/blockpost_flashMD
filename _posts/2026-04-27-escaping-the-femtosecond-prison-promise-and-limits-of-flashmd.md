@@ -44,15 +44,14 @@ toc:
   - name: "FlashMD: Escaping the Femtosecond Prison"
     subsections:
         - name: Architecture and Design Principles
-        - name: "The Non-Negotiable Constraint: E(3) Equivariance"
+        - name: "The Non-Negotiable Constraint: E3 Equivariance"
         - name: The Point-Edge Transformer (PET)
         - name: Long-Stride Predictions in Practice
   - name: An Exploratory Study on Failure Modes
     subsections:
       - name: "Ablation 1: Loss Weighting Between Positions and Momenta"
       - name: "Ablation 2: Mass-Scaled Loss Functions"
-      - name: "The Anatomy of an Explosion"
-      - name: "Summary of Findings"
+      - name: "The Takeaway"
   - name: Summary 
   
 ---
@@ -216,7 +215,7 @@ But first: how is FlashMD actually built?
 
 FlashMD is designed as a modular pipeline with three stages: input embedding, a graph neural network backbone, and multi-head output prediction. This modularity is deliberate—the backbone can be swapped for any sufficiently expressive GNN, as long as it respects the symmetries of physics.
 
-{% include figure.liquid path="assets/img/2026-04-27-flashmd/flashmd_architecture.jpeg" class="img-fluid" caption="Figure 2: The FlashMD architecture. Adapted from Bigi et al. (2025(.s) Atomic positions and momenta are embedded into a molecular graph, processed by a GNN backbone (here: PET), and decoded into displacement and momentum predictions via separate MLP heads." %}
+{% include figure.liquid path="assets/img/2026-04-27-flashmd/flashmd_architecture.svg" class="img-fluid" caption="Figure 2: The FlashMD architecture. Adapted from Bigi et al. (2025(.s) Atomic positions and momenta are embedded into a molecular graph, processed by a GNN backbone (here: PET), and decoded into displacement and momentum predictions via separate MLP heads." %}
 
 **Stage 1: Input Embedding.**
 The current positions $\mathbf{Q}$ and momenta $\mathbf{P}$ are encoded into node and edge features of a molecular graph. A critical preprocessing step is **mass scaling**: input momenta are normalized as $\tilde{\mathbf{p}}_i = \mathbf{p}_i / \sqrt{m_i}$. Without this, heavy atoms (e.g., gold at 197 amu) would dominate the training loss by a factor of $\sim 200^2$ compared to hydrogen (1 amu), causing the model to neglect fast hydrogen vibrations entirely.
@@ -231,7 +230,7 @@ Two separate MLP heads decode the final node representations into predictions:
 
 At inference time, optional post-processing filters can be applied: momentum rescaling for energy conservation, thermostat/barostat coupling for ensemble control, and random rotations to enforce symmetry—a point we return to shortly.
 
-## The Non-Negotiable Constraint: E(3) Equivariance
+## The Non-Negotiable Constraint: E3 Equivariance
 
 Regardless of which GNN backbone we choose, one physical requirement is absolute: the model must respect the symmetries of Euclidean space.
 
